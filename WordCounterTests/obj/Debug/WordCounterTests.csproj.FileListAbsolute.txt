@@ -1,0 +1,8 @@
+C:\Users\Ian\Documents\Visual Studio 2015\Projects\WordCounter\WordCounterTests\bin\Debug\WordCounterTests.dll
+C:\Users\Ian\Documents\Visual Studio 2015\Projects\WordCounter\WordCounterTests\bin\Debug\WordCounterTests.pdb
+C:\Users\Ian\Documents\Visual Studio 2015\Projects\WordCounter\WordCounterTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Ian\Documents\Visual Studio 2015\Projects\WordCounter\WordCounterTests\bin\Debug\WordCounter.exe
+C:\Users\Ian\Documents\Visual Studio 2015\Projects\WordCounter\WordCounterTests\bin\Debug\WordCounter.pdb
+C:\Users\Ian\Documents\Visual Studio 2015\Projects\WordCounter\WordCounterTests\obj\Debug\WordCounterTests.csprojResolveAssemblyReference.cache
+C:\Users\Ian\Documents\Visual Studio 2015\Projects\WordCounter\WordCounterTests\obj\Debug\WordCounterTests.dll
+C:\Users\Ian\Documents\Visual Studio 2015\Projects\WordCounter\WordCounterTests\obj\Debug\WordCounterTests.pdb
