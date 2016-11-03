@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.IO;
 
 namespace WordCounterApp
@@ -23,7 +22,7 @@ namespace WordCounterApp
         /// Counts the unique words in the given file
         /// </summary>
         /// <param name="filePath">The full path to the file to read</param>
-        /// /// <returns>A string with each unique word in the file and its count</returns>
+        /// <returns>A string with each unique word in the file and its count</returns>
         public string CountWords(string filePath)
         {
             if (File.Exists(filePath))
@@ -61,7 +60,7 @@ namespace WordCounterApp
         /// <summary>
         /// Get a formatted string with the unique words and their count
         /// </summary>
-        /// <returns></returns>
+        /// <returns>Formatted string with unique words and their count</returns>
         private string GetResult()
         {
             StringBuilder result = new StringBuilder();

@@ -19,6 +19,8 @@ namespace WordCounterTests
 
             counter.CountWords("test.txt");
 
+            Assert.AreEqual("1: Go\r\n2: do\r\n2: that\r\n1: thing\r\n1: you\r\n1: so\r\n1: well\r\n", counter.CountWords("test.txt"));
+
             Assert.AreEqual(7, counter.WordsDictionary.Count);
             Assert.AreEqual(1, counter.WordsDictionary["Go"]);
             Assert.AreEqual(2, counter.WordsDictionary["do"]);
